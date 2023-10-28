@@ -1,7 +1,17 @@
 :root {
-    background-color: black;
+    margin: 0;
+    padding: 0;
+
 }
 
 .header {
     justify-content: space-between;
+    background-color: black;
+}
+.logo {
+    
+}
+
+.Premium {
+    background-color: #2596be;
 }
